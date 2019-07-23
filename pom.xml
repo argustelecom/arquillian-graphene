@@ -32,8 +32,8 @@
         <useReleaseProfile>true</useReleaseProfile>
         
         <!-- jboss-parent override -->
-        <maven.compiler.argument.target>1.8</maven.compiler.argument.target>
-        <maven.compiler.argument.source>1.8</maven.compiler.argument.source>
+        <maven.compiler.argument.target>11</maven.compiler.argument.target>
+        <maven.compiler.argument.source>11</maven.compiler.argument.source>
 
         <!-- Arquillian -->
         <version.arquillian.core>1.4.0.Final</version.arquillian.core>
