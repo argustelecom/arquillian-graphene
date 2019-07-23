@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jboss.arquillian.graphene</groupId>
     <artifactId>graphene-parent</artifactId>
-    <version>2.3.3-SNAPSHOT</version>
+    <version>2.3.2-ARGUS</version>
     <packaging>pom</packaging>
     <name>Graphene: Parent</name>
     <description>Testing Ajax with flavour of sexy type-safe API</description>
@@ -40,7 +40,7 @@
         <version.arquillian.drone>2.4.3</version.arquillian.drone>
 
         <!-- Runtime dependencies -->
-        <version.cglib>3.2.5</version.cglib>
+        <version.cglib>3.2.12</version.cglib>
         <version.objenesis>1.2</version.objenesis>
 
         <!-- Tests -->
